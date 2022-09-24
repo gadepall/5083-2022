@@ -24,6 +24,8 @@ https://github.com/gadepall/fwc-1/blob/main/installation/main.pdf
 
 https://github.com/gadepall/fwc-1/tree/main/ide
 
+https://spoken-tutorial.org/watch/Arduino/Seven+Segment+Display/English/
+
 #4. LaTeX Report for Arduino IDE
 
 svn co https://github.com/gadepall/training/trunk/math
@@ -49,6 +51,8 @@ https://github.com/gadepall/cbse-papers/blob/main/2020/math/10/solutions/main.pd
 svn co https://github.com/gadepall/cbse-papers/trunk/2020/math/10/solutions 10
 
 Youtube: https://youtube.com/playlist?list=PLKN4kghPKZ9tzPopYNxV0GEb9cMwr2MJG
+
+https://youtube.com/playlist?list=PLKN4kghPKZ9t37g-oL8l0LAPGMK2bL7B-
 
 #Class 12, Sections 1 and 5
 
