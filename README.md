@@ -32,6 +32,12 @@ svn co https://github.com/gadepall/training/trunk/math
 
 sudo apt install texlive-full gnumeric
 
+cd /sdcard/Downloads/
+
+wget https://raw.githubusercontent.com/gadepall/fwc-1/main/files/rncom.sh
+
+bash rncom.sh
+
 #5. Arduino on Android Phone
 
 https://github.com/gadepall/fwc-1/blob/main/installation/main.pdf
