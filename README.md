@@ -42,6 +42,12 @@ bash rncom.sh
 
 https://github.com/gadepall/fwc-1/blob/main/installation/main.pdf
 
+#AVR-Assembly
+
+svn co https://github.com/gadepall/fwc-1/trunk/assembly
+
+https://spoken-tutorial.org/watch/Arduino/Assembly+programming+through+Arduino/English/
+
 #6. Matrices and Optimization Manual
 
 #Installing Python
